@@ -1,0 +1,44 @@
+/* "* { }" Configura todos os elmentos */
+
+        /* "#" para linkar o id */
+
+/* #titulo {
+    color: red;
+    font-size: 55px;
+}
+
+#paragrafo {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#botao {
+    background: green;
+}
+
+#outro-botao {
+    background: chocolate;
+} */
+
+/* _____________________________________________________ */
+
+        /* "." para linkar a class */
+
+/* .texto {
+    color: red;
+    font-weight: bold;
+}
+
+.botao {
+    background: blue;
+
+} */
+
+/* _____________________________________________________ */
+
+        /* "," Concatenação */
+        
+.texto, p, .botao, #segundo-botao {
+    color: red;
+} 
